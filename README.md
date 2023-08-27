@@ -1,4 +1,4 @@
-# DEX Smart Contract - Notion Style 🌐
+# DEX Smart Contract 🌐
 
 Welcome to the Decentralized Exchange (DEX) Smart Contract documentation! This comprehensive guide will take you through the features and functionalities of our DEX contract, empowering you to understand and utilize it effectively. Let's dive in! 🚀
 
@@ -17,7 +17,7 @@ Welcome to the Decentralized Exchange (DEX) Smart Contract documentation! This c
 
 ## Introduction
 
-Our DEX Smart Contract enables users to trade ERC20 tokens on a decentralized platform. It's designed to provide a secure, transparent, and efficient way to exchange tokens within the Ethereum ecosystem.
+The DEX Smart Contract enables users to trade ERC20 tokens on a decentralized platform. It's designed to provide a secure, transparent, and efficient way to exchange tokens within the Ethereum ecosystem.
 
 ## Enums and Structs
 
