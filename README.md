@@ -84,7 +84,7 @@ Initializes the contract and sets the admin address.
 
 ## Contributing
 
-We welcome contributions! If you find issues or have enhancements to propose, please open a pull request. Let's make the DEX Smart Contract even better together!
+Contributions are welcome! If you find issues or have enhancements to propose, please open a pull request. Let's make the DEX Smart Contract even better together!
 
 ## License
 
